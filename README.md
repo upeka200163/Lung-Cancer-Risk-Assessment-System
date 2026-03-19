@@ -9,10 +9,10 @@ An AI-powered web application for early detection and risk assessment of lung ca
 
 Lung cancer is one of the leading causes of cancer-related deaths worldwide. Early detection significantly improves survival rates. This application aims to:
 
-- Provide accessible preliminary risk screening
-- Educate users about lung cancer risk factors
-- Encourage high-risk individuals to seek professional medical evaluation
-- Leverage AI for personalized health guidance
+- Provide accessible preliminary risk screening.
+- Educate users about lung cancer risk factors.
+- Encourage high-risk individuals to seek professional medical evaluation.
+- Leverage AI for personalized health guidance.
 
 **⚠️ IMPORTANT:** This is an educational tool, NOT a medical diagnosis system. Always consult healthcare professionals for proper evaluation.
 
