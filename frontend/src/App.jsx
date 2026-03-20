@@ -14,7 +14,7 @@ function App() {
         </header>
 
         <main>
-          <QuestionnaireForm />
+          <questionnaireForm />
         </main>
       </div>
     </div>
